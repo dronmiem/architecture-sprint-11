@@ -1,0 +1,112 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Страница — 1" id="RVL1ouzlVfq18OsNn2Az">
+    <mxGraphModel dx="1417" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="80" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="80" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="80" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--17" value="Month 1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fillColor=#ebf3ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--19" value="Month 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fillColor=#ebf3ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--20" value="Month 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fillColor=#ebf3ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--21" value="Q1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="80" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="80" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="80" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--25" value="Month 4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fillColor=#ebf3ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--26" value="Month 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fillColor=#ebf3ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--27" value="Month 6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fillColor=#ebf3ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--28" value="Q2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="280" y="10" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="80" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="40" width="80" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="80" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--32" value="Month 7" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fillColor=#ebf3ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--33" value="Month 8" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fillColor=#ebf3ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--34" value="Month 9" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fillColor=#ebf3ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--35" value="Q3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="520" y="10" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="40" width="80" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="40" width="80" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="40" width="80" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--39" value="Month 10" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fillColor=#ebf3ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="760" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--40" value="Month 11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fillColor=#ebf3ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="840" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--41" value="Month 12" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fillColor=#ebf3ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="920" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--42" value="Q4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="760" y="10" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--43" value="Проектирование доменов и Lakehouse,&amp;nbsp;описание потоков данных" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="70" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--44" value="Развертывание Lakehouse" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--45" value="Миграция данных" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="490" y="160" width="480" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--46" value="Создание API Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="490" y="220" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--47" value="Запуск BI-портала" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="810" y="280" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYzcnZTtMqWbIJYtl2--50" value="&lt;h1 style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left; margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Обоснование&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;:&lt;/font&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/h1&gt;&lt;p style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Проектирование доменов и Lakehouse, описание потоков данных:&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; text-align: left; line-height: 6px;&quot;&gt;1) Обеспечивает независимость развития бизнес-направлений.&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; text-align: left;&quot;&gt;2) Позволяет минимизировать изменения в DWH.&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; text-align: left;&quot;&gt;&lt;b&gt;Развертывание Lakehouse:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; text-align: left;&quot;&gt;1) Создает централизованный слой аналитики.&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; text-align: left;&quot;&gt;2) Ускоряет доступ к данным и снижает нагрузку на DWH.&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Миграция данных:&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; text-align: left;&quot;&gt;1) Постепенно снижает зависимость от устаревшего SQL Server.&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; text-align: left;&quot;&gt;2) Упрощает долгосрочную поддержку хранилища.&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Создание API Gateway:&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; text-align: left;&quot;&gt;1) Обеспечивает стандартизацию обмена данными.&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; text-align: left;&quot;&gt;2) Упрощает подключение новых бизнесов.&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Запуск BI-портала:&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; text-align: left;&quot;&gt;1) Дает пользователям гибкий инструмент для работы с отчетами.&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; text-align: left;&quot;&gt;2) Ускоряет принятие решений в головном офисе.&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#F2F6FD;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="370" width="460" height="530" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
